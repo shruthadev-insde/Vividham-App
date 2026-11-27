@@ -1,0 +1,432 @@
+{
+ "CL-BN-001/red/front": {
+  "src": "assets/renders/CL-BN-001-red-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "CL-BN-001/black/front": {
+  "src": "assets/renders/CL-BN-001-black-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "CL-BN-002/redblue/front": {
+  "src": "assets/renders/CL-BN-002-redblue-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/multi/front": {
+  "src": "assets/renders/NV-CC-010-multi-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "CL-SC-003/maroon/front": {
+  "src": "assets/renders/CL-SC-003-maroon-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/blackpink/front": {
+  "src": "assets/renders/NV-CC-010-blackpink-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/whitered/front": {
+  "src": "assets/renders/NV-CC-010-whitered-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/rani/front": {
+  "src": "assets/renders/NV-CC-010-rani-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/rust/front": {
+  "src": "assets/renders/NV-CC-010-rust-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-010/red/front": {
+  "src": "assets/renders/NV-CC-010-red-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-SK-012/black/front": {
+  "src": "assets/renders/NV-SK-012-black-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-CC-011/multi/front": {
+  "src": "assets/renders/NV-CC-011-multi-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "NV-KD-013/green/front": {
+  "src": "assets/renders/NV-KD-013-green-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/yellowred/front": {
+  "src": "assets/renders/MK-KR-020-yellowred-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/bluepink/front": {
+  "src": "assets/renders/MK-KR-020-bluepink-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/pinknavy/front": {
+  "src": "assets/renders/MK-KR-020-pinknavy-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/yellow/front": {
+  "src": "assets/renders/MK-KR-020-yellow-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/yellowpink/front": {
+  "src": "assets/renders/MK-KR-020-yellowpink-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/white/front": {
+  "src": "assets/renders/MK-KR-020-white-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/red/front": {
+  "src": "assets/renders/MK-KR-020-red-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-020/blue/front": {
+  "src": "assets/renders/MK-KR-020-blue-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MK-KR-021/bluepink/front": {
+  "src": "assets/renders/MK-KR-021-bluepink-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "ST-PB-040/pinkblue/front": {
+  "src": "assets/renders/ST-PB-040-pinkblue-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "ST-SI-041/yellowblue/front": {
+  "src": "assets/renders/ST-SI-041-yellowblue-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "KW-DS-080/boy/front": {
+  "src": "assets/renders/KW-DS-080-boy-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "KW-DS-080/girl/front": {
+  "src": "assets/renders/KW-DS-080-girl-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "KW-HH-081/teal/front": {
+  "src": "assets/renders/KW-HH-081-teal-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "AW-JK-090/black/front": {
+  "src": "assets/renders/AW-JK-090-black-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "AW-SQ-091/men/front": {
+  "src": "assets/renders/AW-SQ-091-men-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "AW-SQ-091/women/front": {
+  "src": "assets/renders/AW-SQ-091-women-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "WM-LH-100/gold/front": {
+  "src": "assets/renders/WM-LH-100-gold-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "AW-HH-092/white/front": {
+  "src": "assets/renders/AW-HH-092-white-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "MA-KR-034/yellowblue/front": {
+  "src": "assets/renders/MA-KR-034-yellowblue-front.webp",
+  "concept": false,
+  "at": "2026-11-27"
+ },
+ "CL-BN-001/green/front": {
+  "src": "assets/renders/CL-BN-001-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-BN-002/yellow/front": {
+  "src": "assets/renders/CL-BN-002-yellow-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-KU-004/pink/front": {
+  "src": "assets/renders/CL-KU-004-pink-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-MO-005/ivory/front": {
+  "src": "assets/renders/CL-MO-005-ivory-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-KT-006/maroon/front": {
+  "src": "assets/renders/CL-KT-006-maroon-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-OD-007/orange/front": {
+  "src": "assets/renders/CL-OD-007-orange-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "CL-KT-006/teal/front": {
+  "src": "assets/renders/CL-KT-006-teal-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "NV-KC-014/multi/front": {
+  "src": "assets/renders/NV-KC-014-multi-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "NV-KC-014/red/front": {
+  "src": "assets/renders/NV-KC-014-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "NV-KK-015/white/front": {
+  "src": "assets/renders/NV-KK-015-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "NV-YK-016/red/front": {
+  "src": "assets/renders/NV-YK-016-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-RD-022/pink/front": {
+  "src": "assets/renders/MK-RD-022-pink-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "NV-LB-017/multi/front": {
+  "src": "assets/renders/NV-LB-017-multi-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-GN-023/yellow/front": {
+  "src": "assets/renders/MK-GN-023-yellow-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-HN-024/orange/front": {
+  "src": "assets/renders/MK-HN-024-orange-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-RM-025/yellow/front": {
+  "src": "assets/renders/MK-RM-025-yellow-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-DV-026/red/front": {
+  "src": "assets/renders/MK-DV-026-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MA-SH-030/tiger/front": {
+  "src": "assets/renders/MA-SH-030-tiger-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MA-PV-031/green/front": {
+  "src": "assets/renders/MA-PV-031-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MA-RM-032/yellow/front": {
+  "src": "assets/renders/MA-RM-032-yellow-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MA-ST-033/red/front": {
+  "src": "assets/renders/MA-ST-033-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-KL-042/ivory/front": {
+  "src": "assets/renders/ST-KL-042-ivory-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-RJ-043/red/front": {
+  "src": "assets/renders/ST-RJ-043-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-MH-044/green/front": {
+  "src": "assets/renders/ST-MH-044-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-AS-046/gold/front": {
+  "src": "assets/renders/ST-AS-046-gold-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-KD-045/maroon/front": {
+  "src": "assets/renders/ST-KD-045-maroon-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-KS-047/maroon/front": {
+  "src": "assets/renders/ST-KS-047-maroon-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-KP-048/magenta/front": {
+  "src": "assets/renders/ST-KP-048-magenta-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "ST-KP-048/green/front": {
+  "src": "assets/renders/ST-KP-048-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "PT-BM-050/tricolour/front": {
+  "src": "assets/renders/PT-BM-050-tricolour-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "PT-TC-051/girl/front": {
+  "src": "assets/renders/PT-TC-051-girl-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "PT-TC-051/boy/front": {
+  "src": "assets/renders/PT-TC-051-boy-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "PT-SL-052/camo/front": {
+  "src": "assets/renders/PT-SL-052-camo-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-MT-060/white/front": {
+  "src": "assets/renders/FD-MT-060-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-FF-062/white/front": {
+  "src": "assets/renders/FD-FF-062-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-SV-061/ivory/front": {
+  "src": "assets/renders/FD-SV-061-ivory-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-GD-063/white/front": {
+  "src": "assets/renders/FD-GD-063-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-CC-064/black/front": {
+  "src": "assets/renders/FD-CC-064-black-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-PL-066/khaki/front": {
+  "src": "assets/renders/FD-PL-066-khaki-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-DR-065/white/front": {
+  "src": "assets/renders/FD-DR-065-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-FM-067/white/front": {
+  "src": "assets/renders/FD-FM-067-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-PC-068/blue/front": {
+  "src": "assets/renders/FD-PC-068-blue-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-LN-069/gold/front": {
+  "src": "assets/renders/FD-LN-069-gold-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-RB-070/white/front": {
+  "src": "assets/renders/FD-RB-070-white-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "FD-PR-071/green/front": {
+  "src": "assets/renders/FD-PR-071-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "KW-TT-082/pink/front": {
+  "src": "assets/renders/KW-TT-082-pink-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "KW-RK-083/silver/front": {
+  "src": "assets/renders/KW-RK-083-silver-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "AW-RT-093/red/front": {
+  "src": "assets/renders/AW-RT-093-red-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "AW-BS-094/black/front": {
+  "src": "assets/renders/AW-BS-094-black-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "WM-BR-101/maroon/front": {
+  "src": "assets/renders/WM-BR-101-maroon-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "WM-SW-102/ivory/front": {
+  "src": "assets/renders/WM-SW-102-ivory-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "MK-RD-022/yellow/front": {
+  "src": "assets/renders/MK-RD-022-yellow-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ },
+ "WM-AN-103/green/front": {
+  "src": "assets/renders/WM-AN-103-green-front.webp",
+  "concept": true,
+  "at": "2026-11-27"
+ }
+}
